@@ -10,8 +10,7 @@ let channels = [];
 // سنستخدم محتوى الملف الذي أرسلته أنت
 const m3uContent = `
 #EXTM3U
-#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
-http://ugeen.live:8080/Ugeen_VIP8Z9E57/jueFRN/3220
+
 #EXTINF:-1,beIN SPORTS Full HD 1
 http://ugeen.live:8080/Ugeen_VIP8Z9E57/jueFRN/3221
 #EXTINF:-1,beIN SPORTS Full HD 2
